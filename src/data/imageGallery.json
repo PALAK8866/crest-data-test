@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "imageUrl": "https://ghbc.edu.in/college/menu/wp-content/uploads/2023/11/ms-dhoni-1st-century_254d13a5d.jpg",
+      "name": "MSD",
+      "category": "Batsman"
+    },
+    {
+      "imageUrl": "https://www.livemint.com/lm-img/img/2023/12/12/600x338/CRICKET-WORLDCUP-IND-AUS--600_1702375600556_1702375688912.JPG",
+      "name": "VIRAT KOHLI",
+      "category": "Batsman"
+    },
+    {
+      "imageUrl": "https://i3.wp.com/static.toiimg.com/photo/msid-81527421/81527421.jpg?strip=all",
+      "name": "SACHIN",
+      "category": "Batsman"
+    },
+    {
+      "imageUrl": "https://resources.pulse.icc-cricket.com/ICC/photo/2019/06/10/d9cee907-1903-4d26-a416-b84d9654555a/GettyImages-110789740.jpg",
+      "name": "YUVRAJ",
+      "category": "All-Rounder"
+    },
+    {
+      "imageUrl": "https://assets.shortpedia.com/uploads/2021/05/06/1620293268.jpg",
+      "name": "RAINA",
+      "category": "All-Rounder"
+    },
+    {
+      "imageUrl": "https://staticg.sportskeeda.com/editor/2022/12/f6ac9-16721359935413-1920.jpg",
+      "name": "ZAHIR KHAN",
+      "category": "Bowler"
+    },
+    {
+      "imageUrl": "https://img.cricketnmore.com/cdn-cgi/image/width=748,height=487,quality=90,fit=contain,sharpen=1/uploads/2021/07/interesting-facts-trivia-about-munaf-patel-.jpg",
+      "name": "MUNAF PATEL",
+      "category": "Bowler"
+    },
+    {
+      "imageUrl": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/10/3/w1200X800/Irfan_Pathan_PTI.jpg",
+      "name": "IRFAN PATHAN",
+      "category": "Bowler"
+    },
+    {
+      "imageUrl": "https://img.mensxp.com/media/content/2020/Apr/Reasons-Why-Gautam-Gambhir-Is-Indian-Crickets-Unsung-Hero1200_5e85ca55c4363.jpeg",
+      "name": "GAMBHIR",
+      "category": "Batsman"
+    },
+    {
+      "imageUrl": "https://images.indianexpress.com/2022/11/Suryakumar-Yadav-2-1.jpg",
+      "name": "SURYAKUMAR YADAV",
+      "category": "Batsman"
+    },
+    {
+      "imageUrl": "https://www.hindustantimes.com/ht-img/img/2023/09/14/1600x900/ANI-20230820222-0_1694695202675_1694695222926.jpg",
+      "name": "RINKU SINGH",
+      "category": "Batsman"
+    },
+    {
+      "imageUrl": "https://english.cdn.zeenews.com/sites/default/files/2021/02/12/916490-sreesanth-snub-1.jpg",
+      "name": "SHREESHANTH",
+      "category": "Bowler"
+    }
+  ]
+}
